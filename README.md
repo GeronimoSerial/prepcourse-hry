@@ -1,2 +1,2 @@
 # prepcourse-hry
-Este es un repositorio del prepcourse modulo2 de hry
+Este proyecto es una prueba de como crear un repositorio GITHUB y clonarlo a mi escritorio local
